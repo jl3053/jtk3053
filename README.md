@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of my work is on GitLab; visit my profile at [gitlab.com/jtk3053](https://gitlab.com/jtk3053) for more information.
+
 <!--
 **jtk3053/jtk3053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
